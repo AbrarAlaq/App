@@ -18,7 +18,22 @@
     {
       "idiom" : "iphone",
       "size" : "29x29",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "size" : "29x29",
       "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "size" : "29x29",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "size" : "40x40",
+      "scale" : "2x"
     },
     {
       "idiom" : "iphone",
@@ -32,12 +47,19 @@
     },
     {
       "idiom" : "iphone",
+      "size" : "40x40",
+      "scale" : "3x"
+    },
+    {
       "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "MemeGenerator_120 copy.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "MemeGenerator_180 copy.png",
       "scale" : "3x"
     },
     {
@@ -58,12 +80,32 @@
     {
       "idiom" : "ipad",
       "size" : "29x29",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "ipad",
+      "size" : "29x29",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "ipad",
+      "size" : "29x29",
       "scale" : "2x"
     },
     {
       "idiom" : "ipad",
       "size" : "40x40",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "ipad",
+      "size" : "40x40",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "ipad",
+      "size" : "40x40",
+      "scale" : "2x"
     },
     {
       "idiom" : "ipad",
@@ -128,54 +170,6 @@
     {
       "idiom" : "ipad",
       "size" : "40x40",
-      "scale" : "2x"
-    },
-    {
-      "size" : "29x29",
-      "idiom" : "iphone",
-      "unassigned" : true,
-      "scale" : "2x"
-    },
-    {
-      "size" : "29x29",
-      "idiom" : "iphone",
-      "unassigned" : true,
-      "scale" : "3x"
-    },
-    {
-      "size" : "40x40",
-      "idiom" : "iphone",
-      "unassigned" : true,
-      "scale" : "2x"
-    },
-    {
-      "size" : "40x40",
-      "idiom" : "iphone",
-      "unassigned" : true,
-      "scale" : "3x"
-    },
-    {
-      "size" : "29x29",
-      "idiom" : "ipad",
-      "unassigned" : true,
-      "scale" : "1x"
-    },
-    {
-      "size" : "29x29",
-      "idiom" : "ipad",
-      "unassigned" : true,
-      "scale" : "2x"
-    },
-    {
-      "size" : "40x40",
-      "idiom" : "ipad",
-      "unassigned" : true,
-      "scale" : "1x"
-    },
-    {
-      "size" : "40x40",
-      "idiom" : "ipad",
-      "unassigned" : true,
       "scale" : "2x"
     }
   ],
